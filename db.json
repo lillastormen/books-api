@@ -1,3 +1,20 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": 1,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "isbn": "9780441013593",
+      "genre": ["Science Fiction", "Adventure"],
+      "year": 1965
+    },
+    {
+      "id": 2,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn": "9780547928227",
+      "genre": ["Fantasy"],
+      "year": 1937
+    }
+  ]
 }
