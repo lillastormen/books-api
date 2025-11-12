@@ -4,7 +4,8 @@
   "description": "Simple JSON Server for my bookshelf project",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "prepare": "npm install --omit=dev"
   },
   "dependencies": {
     "json-server": "^0.17.4"
