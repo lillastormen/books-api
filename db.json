@@ -59,7 +59,7 @@
             "title": "Jane Eyre",
             "author": "Charlotte Brontë",
             "isbn": "9780142437209",
-            "genre": ["Gothic", "Romance"],
+            "genre": ["Romance"],
             "year": 1847,
             "pages": "532"
         },
@@ -68,7 +68,7 @@
             "title": "The Catcher in the Rye",
             "author": "J.D. Salinger",
             "isbn": "9780316769488",
-            "genre": ["Coming-of-Age", "Classic"],
+            "genre": ["Classic"],
             "year": 1951,
             "pages": "277"
         },
@@ -86,7 +86,7 @@
             "title": "Crime and Punishment",
             "author": "Fyodor Dostoevsky",
             "isbn": "9780140449136",
-            "genre": ["Philosophical", "Psychological Fiction"],
+            "genre": ["Philosophical", "Psychological", "Fiction"],
             "year": 1866,
             "pages": "671"
         },
@@ -113,7 +113,7 @@
             "title": "War and Peace",
             "author": "Leo Tolstoy",
             "isbn": "9780199232765",
-            "genre": ["Historical Fiction", "Classic"],
+            "genre": ["Historical", "Fiction", "Classic"],
             "year": 1869,
             "pages": "1225"
         },
@@ -140,7 +140,7 @@
             "title": "Les Misérables",
             "author": "Victor Hugo",
             "isbn": "9780451419439",
-            "genre": ["Historical Fiction", "Classic"],
+            "genre": ["Historical", "Fiction", "Classic"],
             "year": 1862,
             "pages": "1463"
         },
@@ -176,7 +176,7 @@
             "title": "The Count of Monte Cristo",
             "author": "Alexandre Dumas",
             "isbn": "9780140449266",
-            "genre": ["Adventure", "Historical Fiction"],
+            "genre": ["Adventure", "Historical", "Fiction"],
             "year": 1844,
             "pages": "1276"
         },
@@ -203,7 +203,7 @@
             "title": "The Scarlet Letter",
             "author": "Nathaniel Hawthorne",
             "isbn": "9780142437261",
-            "genre": ["Historical Fiction", "Classic"],
+            "genre": ["Historical", "Fiction", "Classic"],
             "year": 1850,
             "pages": "272"
         },
@@ -212,7 +212,7 @@
             "title": "Great Expectations",
             "author": "Charles Dickens",
             "isbn": "9780141439563",
-            "genre": ["Coming-of-Age", "Classic"],
+            "genre": ["Classic"],
             "year": 1861,
             "pages": "544"
         },
@@ -221,7 +221,7 @@
             "title": "A Tale of Two Cities",
             "author": "Charles Dickens",
             "isbn": "9780141439600",
-            "genre": ["Historical Fiction", "Classic"],
+            "genre": ["Historical", "Fiction", "Classic"],
             "year": 1859,
             "pages": "489"
         },
@@ -230,7 +230,7 @@
             "title": "The Brothers Karamazov",
             "author": "Fyodor Dostoevsky",
             "isbn": "9780374528379",
-            "genre": ["Philosophical", "Psychological Fiction"],
+            "genre": ["Philosophical", "Psychological", "Fiction"],
             "year": 1880,
             "pages": "824"
         },
@@ -284,7 +284,7 @@
             "title": "The Stranger",
             "author": "Albert Camus",
             "isbn": "9780679720201",
-            "genre": ["Philosophical", "Existential"],
+            "genre": ["Philosophical"],
             "year": 1942,
             "pages": "123"
         },
@@ -293,7 +293,7 @@
             "title": "A Christmas Carol",
             "author": "Charles Dickens",
             "isbn": "9780486268651",
-            "genre": ["Holiday", "Classic"],
+            "genre": ["Classic"],
             "year": 1843,
             "pages": "104"
         },
@@ -302,7 +302,7 @@
             "title": "The Metamorphosis",
             "author": "Franz Kafka",
             "isbn": "9780553213690",
-            "genre": ["Philosophical", "Surrealism"],
+            "genre": ["Philosophical"],
             "year": 1915,
             "pages": "201"
         },
@@ -311,7 +311,7 @@
             "title": "Lord of the Flies",
             "author": "William Golding",
             "isbn": "9780399501487",
-            "genre": ["Allegory", "Classic"],
+            "genre": ["Classic"],
             "year": 1954,
             "pages": "224"
         },
@@ -356,7 +356,7 @@
             "title": "Little Women",
             "author": "Louisa May Alcott",
             "isbn": "9780142408766",
-            "genre": ["Coming-of-Age", "Classic"],
+            "genre": ["Classic"],
             "year": 1868,
             "pages": "759"
         },
@@ -365,7 +365,7 @@
             "title": "Madame Bovary",
             "author": "Gustave Flaubert",
             "isbn": "9780140449129",
-            "genre": ["Realism", "Classic"],
+            "genre": ["Classic"],
             "year": 1856,
             "pages": "329"
         },
@@ -419,7 +419,7 @@
             "title": "One Hundred Years of Solitude",
             "author": "Gabriel García Márquez",
             "isbn": "9780060883287",
-            "genre": ["Magical Realism", "Classic"],
+            "genre": ["Classic"],
             "year": 1967,
             "pages": "417"
         },
