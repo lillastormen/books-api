@@ -1,20 +1,469 @@
 {
   "books": [
-    {
-      "id": 1,
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "isbn": "9780441013593",
-      "genre": ["Science Fiction", "Adventure"],
-      "year": 1965
-    },
-    {
-      "id": 2,
-      "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
-      "isbn": "9780547928227",
-      "genre": ["Fantasy"],
-      "year": 1937
-    }
+    [
+        {
+            "id": 1,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": "9780141439518",
+            "genre": ["Romance", "Classic"],
+            "year": 1813,
+            "pages": "279"
+        },
+        {
+            "id": 2,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "isbn": "9780547928227",
+            "genre": ["Fantasy", "Adventure"],
+            "year": 1937,
+            "pages": "320"
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": "9780451524935",
+            "genre": ["Dystopian", "Science Fiction"],
+            "year": 1949,
+            "pages": "328"
+        },
+        {
+            "id": 4,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": "9780061120084",
+            "genre": ["Fiction", "Classic"],
+            "year": 1960,
+            "pages": "336"
+        },
+        {
+            "id": 5,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "isbn": "9781503280786",
+            "genre": ["Adventure", "Classic"],
+            "year": 1851,
+            "pages": "720"
+        },
+        {
+            "id": 6,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "9780743273565",
+            "genre": ["Tragedy", "Classic"],
+            "year": 1925,
+            "pages": "180"
+        },
+        {
+            "id": 7,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "isbn": "9780142437209",
+            "genre": ["Gothic", "Romance"],
+            "year": 1847,
+            "pages": "532"
+        },
+        {
+            "id": 8,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "isbn": "9780316769488",
+            "genre": ["Coming-of-Age", "Classic"],
+            "year": 1951,
+            "pages": "277"
+        },
+        {
+            "id": 9,
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "isbn": "9780486282114",
+            "genre": ["Horror", "Science Fiction"],
+            "year": 1818,
+            "pages": "280"
+        },
+        {
+            "id": 10,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "isbn": "9780140449136",
+            "genre": ["Philosophical", "Psychological Fiction"],
+            "year": 1866,
+            "pages": "671"
+        },
+        {
+            "id": 11,
+            "title": "Wuthering Heights",
+            "author": "Emily Brontë",
+            "isbn": "9780141439556",
+            "genre": ["Gothic", "Romance"],
+            "year": 1847,
+            "pages": "416"
+        },
+        {
+            "id": 12,
+            "title": "The Odyssey",
+            "author": "Homer",
+            "isbn": "9780140268867",
+            "genre": ["Epic", "Mythology"],
+            "year": -800,
+            "pages": "541"
+        },
+        {
+            "id": 13,
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "isbn": "9780199232765",
+            "genre": ["Historical Fiction", "Classic"],
+            "year": 1869,
+            "pages": "1225"
+        },
+        {
+            "id": 14,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "isbn": "9780060850524",
+            "genre": ["Dystopian", "Science Fiction"],
+            "year": 1932,
+            "pages": "288"
+        },
+        {
+            "id": 15,
+            "title": "The Iliad",
+            "author": "Homer",
+            "isbn": "9780140275360",
+            "genre": ["Epic", "Mythology"],
+            "year": -750,
+            "pages": "704"
+        },
+        {
+            "id": 16,
+            "title": "Les Misérables",
+            "author": "Victor Hugo",
+            "isbn": "9780451419439",
+            "genre": ["Historical Fiction", "Classic"],
+            "year": 1862,
+            "pages": "1463"
+        },
+        {
+            "id": 17,
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "isbn": "9780143035008",
+            "genre": ["Romance", "Classic"],
+            "year": 1878,
+            "pages": "864"
+        },
+        {
+            "id": 18,
+            "title": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "isbn": "9780141439570",
+            "genre": ["Philosophical", "Gothic"],
+            "year": 1890,
+            "pages": "254"
+        },
+        {
+            "id": 19,
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "isbn": "9780486411095",
+            "genre": ["Horror", "Gothic"],
+            "year": 1897,
+            "pages": "418"
+        },
+        {
+            "id": 20,
+            "title": "The Count of Monte Cristo",
+            "author": "Alexandre Dumas",
+            "isbn": "9780140449266",
+            "genre": ["Adventure", "Historical Fiction"],
+            "year": 1844,
+            "pages": "1276"
+        },
+        {
+            "id": 21,
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes",
+            "isbn": "9780060934347",
+            "genre": ["Satire", "Adventure"],
+            "year": 1605,
+            "pages": "992"
+        },
+        {
+            "id": 22,
+            "title": "The Adventures of Huckleberry Finn",
+            "author": "Mark Twain",
+            "isbn": "9780142437179",
+            "genre": ["Adventure", "Classic"],
+            "year": 1884,
+            "pages": "366"
+        },
+        {
+            "id": 23,
+            "title": "The Scarlet Letter",
+            "author": "Nathaniel Hawthorne",
+            "isbn": "9780142437261",
+            "genre": ["Historical Fiction", "Classic"],
+            "year": 1850,
+            "pages": "272"
+        },
+        {
+            "id": 24,
+            "title": "Great Expectations",
+            "author": "Charles Dickens",
+            "isbn": "9780141439563",
+            "genre": ["Coming-of-Age", "Classic"],
+            "year": 1861,
+            "pages": "544"
+        },
+        {
+            "id": 25,
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "isbn": "9780141439600",
+            "genre": ["Historical Fiction", "Classic"],
+            "year": 1859,
+            "pages": "489"
+        },
+        {
+            "id": 26,
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoevsky",
+            "isbn": "9780374528379",
+            "genre": ["Philosophical", "Psychological Fiction"],
+            "year": 1880,
+            "pages": "824"
+        },
+        {
+            "id": 27,
+            "title": "The Grapes of Wrath",
+            "author": "John Steinbeck",
+            "isbn": "9780143039433",
+            "genre": ["Historical Fiction", "Classic"],
+            "year": 1939,
+            "pages": "464"
+        },
+        {
+            "id": 28,
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway",
+            "isbn": "9780684801223",
+            "genre": ["Adventure", "Classic"],
+            "year": 1952,
+            "pages": "127"
+        },
+        {
+            "id": 29,
+            "title": "The Divine Comedy",
+            "author": "Dante Alighieri",
+            "isbn": "9780142437223",
+            "genre": ["Epic", "Poetry"],
+            "year": 1320,
+            "pages": "798"
+        },
+        {
+            "id": 30,
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "isbn": "9781451673319",
+            "genre": ["Dystopian", "Science Fiction"],
+            "year": 1953,
+            "pages": "249"
+        },
+        {
+            "id": 31,
+            "title": "The Sound and the Fury",
+            "author": "William Faulkner",
+            "isbn": "9780679732242",
+            "genre": ["Modernist", "Classic"],
+            "year": 1929,
+            "pages": "326"
+        },
+        {
+            "id": 32,
+            "title": "The Stranger",
+            "author": "Albert Camus",
+            "isbn": "9780679720201",
+            "genre": ["Philosophical", "Existential"],
+            "year": 1942,
+            "pages": "123"
+        },
+        {
+            "id": 33,
+            "title": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "isbn": "9780486268651",
+            "genre": ["Holiday", "Classic"],
+            "year": 1843,
+            "pages": "104"
+        },
+        {
+            "id": 34,
+            "title": "The Metamorphosis",
+            "author": "Franz Kafka",
+            "isbn": "9780553213690",
+            "genre": ["Philosophical", "Surrealism"],
+            "year": 1915,
+            "pages": "201"
+        },
+        {
+            "id": 35,
+            "title": "Lord of the Flies",
+            "author": "William Golding",
+            "isbn": "9780399501487",
+            "genre": ["Allegory", "Classic"],
+            "year": 1954,
+            "pages": "224"
+        },
+        {
+            "id": 36,
+            "title": "The Wind in the Willows",
+            "author": "Kenneth Grahame",
+            "isbn": "9780143039099",
+            "genre": ["Children's Literature", "Adventure"],
+            "year": 1908,
+            "pages": "256"
+        },
+        {
+            "id": 37,
+            "title": "Gulliver’s Travels",
+            "author": "Jonathan Swift",
+            "isbn": "9780141439495",
+            "genre": ["Satire", "Adventure"],
+            "year": 1726,
+            "pages": "306"
+        },
+        {
+            "id": 38,
+            "title": "The Time Machine",
+            "author": "H.G. Wells",
+            "isbn": "9780553213515",
+            "genre": ["Science Fiction", "Adventure"],
+            "year": 1895,
+            "pages": "118"
+        },
+        {
+            "id": 39,
+            "title": "Treasure Island",
+            "author": "Robert Louis Stevenson",
+            "isbn": "9780486275598",
+            "genre": ["Adventure", "Classic"],
+            "year": 1883,
+            "pages": "240"
+        },
+        {
+            "id": 40,
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "isbn": "9780142408766",
+            "genre": ["Coming-of-Age", "Classic"],
+            "year": 1868,
+            "pages": "759"
+        },
+        {
+            "id": 41,
+            "title": "Madame Bovary",
+            "author": "Gustave Flaubert",
+            "isbn": "9780140449129",
+            "genre": ["Realism", "Classic"],
+            "year": 1856,
+            "pages": "329"
+        },
+        {
+            "id": 42,
+            "title": "The Jungle Book",
+            "author": "Rudyard Kipling",
+            "isbn": "9780141325293",
+            "genre": ["Adventure", "Children's Literature"],
+            "year": 1894,
+            "pages": "277"
+        },
+        {
+            "id": 43,
+            "title": "The Call of the Wild",
+            "author": "Jack London",
+            "isbn": "9780486264721",
+            "genre": ["Adventure", "Classic"],
+            "year": 1903,
+            "pages": "232"
+        },
+        {
+            "id": 44,
+            "title": "The Hunchback of Notre-Dame",
+            "author": "Victor Hugo",
+            "isbn": "9780140443530",
+            "genre": ["Gothic", "Historical Fiction"],
+            "year": 1831,
+            "pages": "940"
+        },
+        {
+            "id": 45,
+            "title": "The Three Musketeers",
+            "author": "Alexandre Dumas",
+            "isbn": "9780140449266",
+            "genre": ["Adventure", "Historical Fiction"],
+            "year": 1844,
+            "pages": "704"
+        },
+        {
+            "id": 46,
+            "title": "A Farewell to Arms",
+            "author": "Ernest Hemingway",
+            "isbn": "9780684801469",
+            "genre": ["War", "Romance"],
+            "year": 1929,
+            "pages": "332"
+        },
+        {
+            "id": 47,
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel García Márquez",
+            "isbn": "9780060883287",
+            "genre": ["Magical Realism", "Classic"],
+            "year": 1967,
+            "pages": "417"
+        },
+        {
+            "id": 48,
+            "title": "Of Mice and Men",
+            "author": "John Steinbeck",
+            "isbn": "9780140177398",
+            "genre": ["Tragedy", "Classic"],
+            "year": 1937,
+            "pages": "107"
+        },
+        {
+            "id": 49,
+            "title": "The Sun Also Rises",
+            "author": "Ernest Hemingway",
+            "isbn": "9780743297332",
+            "genre": ["Modernist", "Classic"],
+            "year": 1926,
+            "pages": "251"
+        },
+        {
+            "id": 50,
+            "title": "The Secret Garden",
+            "author": "Frances Hodgson Burnett",
+            "isbn": "9780142437056",
+            "genre": ["Children's Literature", "Classic"],
+            "year": 1911,
+            "pages": "331"
+        },
+        {
+            "id": 51,
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "isbn": "9780441013593",
+            "genre": ["Science Fiction", "Adventure"],
+            "year": 1965,
+            "pages": "704" 
+        }
+    ]
   ]
 }
+ 
+
+
+   
