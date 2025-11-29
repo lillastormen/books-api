@@ -488,7 +488,7 @@
             "genre": ["Modernist", "Classic"],
             "year": 1926,
             "pages": "251",
-               "createdAt": "2025-11-20"
+            "createdAt": "2025-11-20"
         },
         {
             "id": 50,
@@ -498,7 +498,7 @@
             "genre": ["Children's Literature", "Classic"],
             "year": 1911,
             "pages": "331",
-               "createdAt": "2025-11-20"
+            "createdAt": "2025-11-20"
         },
         {
             "id": 51,
@@ -508,8 +508,61 @@
             "genre": ["Science Fiction", "Adventure"],
             "year": 1965,
             "pages": "704" ,
-               "createdAt": "2025-11-21"
+            "createdAt": "2025-11-21"
+        },
+        {
+            "id": 53,
+            "title": "The Silent Forest",
+            "author": "Mara Hensley",
+            "pages": 312,
+            "isbn": "9781402894623",
+            "createdAt": "2025-11-29",
+            "year": 2023,
+            "genre": ["Fantasy", "Adventure"]
+        },
+        {
+            "id": 54,
+            "title": "Origins of Tomorrow",
+            "author": "Liam Carter",
+            "pages": 289,
+            "isbn": "9780399155841",
+            "createdAt": "2025-11-29",
+            "year": 2022,
+            "genre": ["Science Fiction"]
+        },
+        {
+            "id": 55,
+            "title": "Gardens of Glass",
+            "author": "Evelyn Shore",
+            "pages": 254,
+            "isbn": "9781250204717",
+            "createdAt": "2025-11-29",
+            "year": 2021,
+            "genre": ["Drama", "Romance"]
+        },
+        {
+            "id": 56,
+            "title": "A Study in Smoke",
+            "author": "Harold Finch",
+            "pages": 401,
+            "isbn": "9780521687339",
+            "createdAt": "2025-11-29",
+            "year": 2024,
+            "genre": ["Mystery", "Thriller"]
+        },
+        {
+            "id": 57,
+            "title": "The Quantum Paradox",
+            "author": "Sofia Liang",
+            "pages": 338,
+            "isbn": "9781733754214",
+            "createdAt": "2025-11-29",
+            "year": 2025,
+            "genre": ["Science", "Non-fiction"]
         }
+
+
+
     ]
 }
  
