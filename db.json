@@ -559,10 +559,257 @@
             "createdAt": "2025-11-29",
             "year": 2025,
             "genre": ["Science", "Non-fiction"]
+        },    
+        {
+            "id": 61,
+            "title": "Eve: How the Female Body Drove 200 Million Years of Human Evolution",
+            "author": "Cat Bohannon",
+            "isbn": "9780385350549",
+            "year": 2023,
+            "pages": 624,
+            "genre": ["Science", "Evolution", "Biology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 62,
+            "title": "The Woman in Me",
+            "author": "Britney Spears",
+            "isbn": "9781668009048",
+            "year": 2023,
+            "pages": 288,
+            "genre": ["Memoir", "Autobiography"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 63,
+            "title": "Resist: How a Century of Young Black Activists Shaped America",
+            "author": "Rita Omokha",
+            "isbn": "9781250290984",
+            "year": 2024,
+            "pages": 352,
+            "genre": ["History", "Social Justice"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 64,
+            "title": "Black Witness",
+            "author": "Amy McQuire",
+            "isbn": "9780702263323",
+            "year": 2024,
+            "pages": 336,
+            "genre": ["Journalism", "Indigenous Studies", "Media"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 65,
+            "title": "The Story of a Heart",
+            "author": "Rachel Clarke",
+            "isbn": "9780349145617",
+            "year": 2024,
+            "pages": 320,
+            "genre": ["Biography", "Medicine"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 66,
+            "title": "Everything Is Tuberculosis",
+            "author": "John Green",
+            "isbn": "9780525426059",
+            "year": 2025,
+            "pages": 208,
+            "genre": ["Science", "Health"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 67,
+            "title": "The Heat Will Kill You First: Life and Death on a Scorched Planet",
+            "author": "Jeff Goodell",
+            "isbn": "9780316543511",
+            "year": 2023,
+            "pages": 384,
+            "genre": ["Climate", "Environment"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 68,
+            "title": "Elon Musk",
+            "author": "Walter Isaacson",
+            "isbn": "9781982181284",
+            "year": 2023,
+            "pages": 688,
+            "genre": ["Biography", "Technology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 69,
+            "title": "The Deadline Effect",
+            "author": "Christopher Cox",
+            "isbn": "9781982132286",
+            "year": 2024,
+            "pages": 304,
+            "genre": ["Business", "Psychology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 70,
+            "title": "The Coming Wave",
+            "author": "Mustafa Suleyman",
+            "isbn": "9780593593950",
+            "year": 2023,
+            "pages": 352,
+            "genre": ["Technology", "AI", "Futurism"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 71,
+            "title": "Poverty, by America",
+            "author": "Matthew Desmond",
+            "isbn": "9780593239919",
+            "year": 2023,
+            "pages": 304,
+            "genre": ["Sociology", "Economics"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 72,
+            "title": "Why We Remember",
+            "author": "Charan Ranganath",
+            "isbn": "9780385549776",
+            "year": 2024,
+            "pages": 336,
+            "genre": ["Neuroscience", "Psychology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 73,
+            "title": "A Hacker’s Mind",
+            "author": "Bruce Schneier",
+            "isbn": "9780393866664",
+            "year": 2023,
+            "pages": 320,
+            "genre": ["Cybersecurity", "Politics", "Technology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 74,
+            "title": "Fire Weather: A True Story from a Hotter World",
+            "author": "John Vaillant",
+            "isbn": "9781524732851",
+            "year": 2023,
+            "pages": 432,
+            "genre": ["Environment", "History"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 75,
+            "title": "The Language of Trees",
+            "author": "Katie Holten",
+            "isbn": "9781951142972",
+            "year": 2023,
+            "pages": 352,
+            "genre": ["Nature", "Art"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 76,
+            "title": "The Wavemakers: How Social Media Rewired Politics and the World",
+            "author": "Laura Sipser",
+            "isbn": "9780316569917",
+            "year": 2024,
+            "pages": 288,
+            "genre": ["Politics", "Media Studies"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 77,
+            "title": "Your Brain on Art",
+            "author": "Susan Magsamen & Ivy Ross",
+            "isbn": "9780593449233",
+            "year": 2023,
+            "pages": 304,
+            "genre": ["Neuroscience", "Art", "Health"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 78,
+            "title": "Supercommunicators",
+            "author": "Charles Duhigg",
+            "isbn": "9780593237489",
+            "year": 2024,
+            "pages": 352,
+            "genre": ["Communication", "Psychology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 79,
+            "title": "The Anxious Generation",
+            "author": "Jonathan Haidt",
+            "isbn": "9780593655030",
+            "year": 2024,
+            "pages": 416,
+            "genre": ["Psychology", "Sociology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 80,
+            "title": "The Data Detective",
+            "author": "Tim Harford",
+            "isbn": "9780593182314",
+            "year": 2023,
+            "pages": 336,
+            "genre": ["Statistics", "Economics"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 81,
+            "title": "The Cancer Chronicles: New Frontiers in Prevention and Cure",
+            "author": "Lila Arun",
+            "isbn": "9781987762105",
+            "year": 2025,
+            "pages": 290,
+            "genre": ["Medicine", "Science"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 82,
+            "title": "The Ocean in Us",
+            "author": "Sara Mendez",
+            "isbn": "9781250893352",
+            "year": 2024,
+            "pages": 240,
+            "genre": ["Nature", "Science"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 83,
+            "title": "The Future of Food",
+            "author": "Harold Bingham",
+            "isbn": "9780143778990",
+            "year": 2025,
+            "pages": 310,
+            "genre": ["Food Science", "Environment"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 84,
+            "title": "Unwired: A Guide to Healthy Tech Boundaries",
+            "author": "Alicia Romero",
+            "isbn": "9780316641996",
+            "year": 2024,
+            "pages": 220,
+            "genre": ["Self-help", "Technology"],
+            "createdAd": "2025-11-30"
+        },
+        {
+            "id": 85,
+            "title": "Patterns of Power: Hidden Systems That Shape Our World",
+            "author": "Tobias Rittman",
+            "isbn": "9781258907722",
+            "year": 2025,
+            "pages": 370,
+            "genre": ["Politics", "Sociology"],
+            "createdAd": "2025-11-30"
         }
-
-
-
     ]
 }
  
